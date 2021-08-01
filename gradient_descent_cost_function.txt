@@ -1,0 +1,13 @@
+Date: 30/07/2021
+Topic: ML | Gradient descent and cost function
+
+Gradient descent:
+-> It is an algorithm that finds best fit line for given training data set.
+-> It plots the distinct 'slope' and 'intecept' value against MSE.
+-> Then it find out for which 'm' and 'b' values the MSE value comes to zero.
+-> Partial derivative of 'm' and 'b' gives the slope. more clearly it gives the direction.
+-> To find out the next step distance use 'learning rate'.
+-> b1 = b0 - learning rate * partial derivative of 'm' (or) 'b'.
+
+Cost function:
+-> Mean squared error is known as cost function.
